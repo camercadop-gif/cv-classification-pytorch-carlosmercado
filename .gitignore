@@ -1,0 +1,23 @@
+# Entornos
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+
+# Datos
+data/
+*.zip
+
+# Modelos
+*.pth
+
+# Notebooks automáticos
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Otros
+.DS_Store
